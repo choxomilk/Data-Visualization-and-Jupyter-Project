@@ -1,0 +1,1 @@
+This is a project I made by myself to learn and practice python's data analysis library (pandas and matplotlib).Language used for Jupyter notebook is in Indonesia to explain the step-by-step workings of doing data analysis and data visualization in python. The dataset used in this project was gathered from IBM Cognos' fictional automotive company sales data. 
